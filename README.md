@@ -82,10 +82,6 @@ This dashboard was created to analyze and understand customer churn patterns usi
 ## Conclusion
 The dashboard effectively visualizes customer churn patterns, helping stakeholders make informed decisions on addressing key issues that lead to customer churn. By breaking down the data into specific categories, such as demographics, contract types, and service features, this dashboard provides a holistic view of the customer lifecycle and opportunities to improve retention strategies.
 
-## How to Use This Repository
-1. **Download/Clone** this repository.
-2. **Open** the Power BI file (if available) to explore the dashboard or view the provided screenshots.
-3. **Reference** this README for understanding the visualized insights and their context in churn analysis.
 
 ---
 
